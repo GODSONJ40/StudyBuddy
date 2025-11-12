@@ -137,3 +137,7 @@ URLSession.shared.dataTask(with: url) { data, _, _ in
 
 ----
 
+## Video presenting the Brainstorming and Readme documents:
+Capstone Project Ideas Presentation - Watch Video 
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/ac80a988242a44b4982ae9bb031b2d97" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
